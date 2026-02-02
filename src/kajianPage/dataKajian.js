@@ -6,12 +6,14 @@ import dasarhtmlslide from "../assets/tampilan/dasarhtmlslide.png";
 import kelaspersegi from "../assets/tampilan/kelaspersegi.png";
 import spslide from "../assets/tampilan/spslide.png";
 import aljabarslide from "../assets/tampilan/aljabarslide.png";
+import WWIslide from "../assets/tampilan/WWIslide.png";
 import gradient from "../assets/poster/gradient.png";
 import html from "../assets/poster/html.png";
 import dasarhtml from "../assets/poster/dasarhtml.png";
 import kelas from "../assets/poster/kelas.png";
 import sp from "../assets/poster/sp.png";
 import aljabar from "../assets/poster/aljabar.png";
+import WWI from "../assets/poster/WWI.png";
 
 const dataKajian = [
   {
@@ -83,6 +85,16 @@ const dataKajian = [
     slide:
       "https://drive.google.com/file/d/15dm2CnJKisiKGDSLu3mL4Ci2JQ1lVOO2/view?usp=sharing",
     tema: ["math"],
+  },
+  {
+    id: 8,
+    nama: "WWI (World War I / Perang Dunia I)",
+    desc: "Perang Dunia I adalah konflik global dahsyat yang berlangsung dari tahun 1914 sampai 1918 dan melibatkan negara-negara besar dari berbagai benua sehingga dampaknya memengaruhi hampir seluruh penjuru dunia. Sebelum meletusnya perang, kondisi dunia diwarnai oleh persaingan ekonomi akibat Revolusi Industri, nasionalisme yang berlebihan di mana suatu bangsa merasa paling hebat, serta perlombaan senjata yang sangat intens antarnegara Eropa. Situasi ini diperparah dengan adanya politik aliansi kaku yang membagi kekuatan menjadi Blok Sentral yang terdiri dari Jerman dan Austria-Hongaria serta Blok Sekutu yang dipimpin oleh Inggris, Prancis, dan Rusia. Perang secara resmi terpicu oleh peristiwa pembunuhan putra mahkota Austria-Hongaria, Archduke Franz Ferdinand, di Sarajevo oleh nasionalis Serbia yang kemudian menyeret negara-negara besar ke dalam konflik melalui reaksi berantai perjanjian militer mereka. Selama peperangan, strategi perang parit mendominasi wilayah Eropa Barat yang mengakibatkan pertempuran berjalan lambat, stagnan, dan sangat melelahkan bagi para tentara. Penggunaan teknologi perang modern seperti pesawat tempur, gas beracun, dan kapal selam menjadikan konflik ini sebagai perang modern pertama dengan jumlah korban jiwa yang sangat besar. Keterlibatan Amerika Serikat di pihak Sekutu memberikan tambahan pasukan serta bantuan logistik signifikan yang akhirnya membuat Jerman kelelahan dan menyerah pada 11 November 1918. Pasca perang, Perjanjian Versailles diberlakukan dengan isi yang sangat memberatkan Jerman melalui ganti rugi besar dan pembatasan wilayah, yang di kemudian hari justru menimbulkan rasa dendam serta memicu munculnya ideologi ekstrem. Selain meruntuhkan kekaisaran besar seperti Turki Utsmani dan mengubah peta politik Eropa, perang ini juga membawa dampak sosial berupa trauma mendalam serta kemiskinan yang meluas. Bagi Indonesia, meskipun tidak terlibat langsung, perang ini memengaruhi kondisi Belanda dan ikut membuka jalan bagi kebangkitan nasional serta meningkatnya kesadaran politik rakyat jajahan. Secara keseluruhan, Perang Dunia I merupakan tragedi besar yang mengubah wajah dunia dan memberikan pelajaran berharga bagi umat manusia mengenai dampak mengerikan dari persaingan serta kebencian antar bangsa.",
+    imgTampilan: WWIslide,
+    poster: WWI,
+    slide:
+      "https://drive.google.com/file/d/162qantuPpXe6zc7UKJnMxImLkZ57yb0g/view?usp=sharing",
+    tema: ["sejarah"],
   },
 ];
 

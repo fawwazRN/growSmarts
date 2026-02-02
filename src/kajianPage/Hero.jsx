@@ -25,12 +25,12 @@ export default function Hero() {
         <img
           src={children}
           alt=""
-          className="top-30 right-20 bottom-0 z-10 absolute"
+          className="top-30 -right-10 bottom-0 z-10 absolute"
         />
         <img
           src={programer}
           alt=""
-          className="top-50 -right-50 bottom-0 absolute"
+          className="top-70 -right-20 bottom-0 absolute w-170"
         />
       </div>
     </div>

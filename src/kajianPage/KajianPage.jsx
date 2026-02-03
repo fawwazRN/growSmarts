@@ -20,7 +20,7 @@ export default function KajianPage() {
   console.log(zoom);
   return (
     <div id="deskripsi" className="flex flex-col justify-center font-inter">
-      <div className="top-160 z-50 sticky flex justify-between gap-20 bg-orange-200 px-30 py-5 w-full">
+      <div className="top-0 z-50 sticky flex justify-between gap-20 bg-orange-200 px-30 py-5 w-full">
         <input
           type="text"
           className="py-3 pl-5 border border-black rounded-full w-3/4 text-xl"
